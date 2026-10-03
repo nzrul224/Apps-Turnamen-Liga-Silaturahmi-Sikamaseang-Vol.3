@@ -1,0 +1,6 @@
+{
+  "name": "PitchMaster Pro - Football Tournament Management",
+  "description": "Sistem manajemen turnamen sepak bola profesional untuk registrasi tim, jadwal round robin, live match center, klasemen poin & fairplay PSSI, serta bagan final & trofeo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
